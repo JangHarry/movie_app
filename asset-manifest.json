@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JangHarry/movie_app/static/css/main.c79ced86.chunk.css",
+    "main.js": "/JangHarry/movie_app/static/js/main.6c719c7e.chunk.js",
+    "main.js.map": "/JangHarry/movie_app/static/js/main.6c719c7e.chunk.js.map",
+    "runtime-main.js": "/JangHarry/movie_app/static/js/runtime-main.134b363b.js",
+    "runtime-main.js.map": "/JangHarry/movie_app/static/js/runtime-main.134b363b.js.map",
+    "static/js/2.cace864e.chunk.js": "/JangHarry/movie_app/static/js/2.cace864e.chunk.js",
+    "static/js/2.cace864e.chunk.js.map": "/JangHarry/movie_app/static/js/2.cace864e.chunk.js.map",
+    "index.html": "/JangHarry/movie_app/index.html",
+    "precache-manifest.95175f2f61ef5ec122573c78b4f2d91f.js": "/JangHarry/movie_app/precache-manifest.95175f2f61ef5ec122573c78b4f2d91f.js",
+    "service-worker.js": "/JangHarry/movie_app/service-worker.js",
+    "static/css/main.c79ced86.chunk.css.map": "/JangHarry/movie_app/static/css/main.c79ced86.chunk.css.map",
+    "static/js/2.cace864e.chunk.js.LICENSE.txt": "/JangHarry/movie_app/static/js/2.cace864e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134b363b.js",
+    "static/js/2.cace864e.chunk.js",
+    "static/css/main.c79ced86.chunk.css",
+    "static/js/main.6c719c7e.chunk.js"
+  ]
+}
